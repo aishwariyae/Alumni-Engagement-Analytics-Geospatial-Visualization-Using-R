@@ -52,6 +52,7 @@ Performed hierarchical geographic analysis at the:
   + Manchester
   + Nashua
   + Salem
+    
   A majority of alumni in these cities belonged to the School of Humanities and Social Sciences
 
 # Impact
