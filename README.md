@@ -44,6 +44,8 @@ Performed hierarchical geographic analysis at the:
 * Built choropleth maps using ggplot2 and usmap
 * Represented alumni density across U.S. states using gradient-based color scaling
 * Visualized top metropolitan hubs and alumni distribution trends
+# Choropleth map 
+<img width="1130" height="701" alt="image" src="https://github.com/user-attachments/assets/e76ea5c7-3e2e-4731-9613-95d89cce2144" />
 
 # Key Findings
 1. Massachusetts contained the highest concentration of alumni (~10,000 alumni)
