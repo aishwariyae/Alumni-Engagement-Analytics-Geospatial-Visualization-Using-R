@@ -15,44 +15,44 @@ The goal of this project was to:
 # Dataset
 The dataset consisted of approximately 16,292 records and 5 variables, including:
 
-> Alumni state
-> Graduation year
-> ZIP code
-> Preferred city
-> Geographic location information
+*Alumni state
+*Graduation year
+*ZIP code
+*Preferred city
+*Geographic location information
 
 # Tools & Technologies
-> R Programming
-> ggplot2
-> usmap
-> dplyr
-> Exploratory Data Analysis (EDA)
-> Choropleth Mapping
->Statistical Aggregation & Distribution Analysis
++ R Programming
++ ggplot2
++ usmap
++ dplyr
++ Exploratory Data Analysis (EDA)
++ Choropleth Mapping
++ Statistical Aggregation & Distribution Analysis
 
 # Methodology
-> Data Preparation
->Cleaned and structured alumni demographic and geographic data
->Aggregated alumni counts across states, cities, and metropolitan regions
->Exploratory & Statistical Analysis
->Conducted descriptive statistics and proportion analysis
->Identified top states and cities based on alumni concentration
+1. Data Preparation
+2. Cleaned and structured alumni demographic and geographic data
+3. Aggregated alumni counts across states, cities, and metropolitan regions
+4. Exploratory & Statistical Analysis
+5. Conducted descriptive statistics and proportion analysis
+6. Identified top states and cities based on alumni concentration
 
 Performed hierarchical geographic analysis at the:
-> State level, City level, Metropolitan level
-> Geospatial Visualization
-> Built choropleth maps using ggplot2 and usmap
-> Represented alumni density across U.S. states using gradient-based color scaling
-> Visualized top metropolitan hubs and alumni distribution trends
+* State level, City level, Metropolitan level
+* Geospatial Visualization
+* Built choropleth maps using ggplot2 and usmap
+* Represented alumni density across U.S. states using gradient-based color scaling
+* Visualized top metropolitan hubs and alumni distribution trends
 
 # Key Findings
-Massachusetts contained the highest concentration of alumni (~10,000 alumni)
-New Hampshire emerged as a statistically significant and previously underserved alumni hub
-Nearly 50% of New Hampshire alumni resided in:
-  > Manchester
-  > Nashua
-  > Salem
-A majority of alumni in these cities belonged to the School of Humanities and Social Sciences
+1. Massachusetts contained the highest concentration of alumni (~10,000 alumni)
+2. New Hampshire emerged as a statistically significant and previously underserved alumni hub
+3. Nearly 50% of New Hampshire alumni resided in:
+  + Manchester
+  + Nashua
+  + Salem
+  A majority of alumni in these cities belonged to the School of Humanities and Social Sciences
 
 # Impact
 The analysis provided stakeholders with data-driven insights for strategic alumni engagement planning and helped identify New Hampshire as a high-potential location for future alumni events.
