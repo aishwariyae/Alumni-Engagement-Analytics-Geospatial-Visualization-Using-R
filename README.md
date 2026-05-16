@@ -15,11 +15,11 @@ The goal of this project was to:
 # Dataset
 The dataset consisted of approximately 16,292 records and 5 variables, including:
 
-*Alumni state
-*Graduation year
-*ZIP code
-*Preferred city
-*Geographic location information
+* Alumni state
+* Graduation year
+* ZIP code
+* Preferred city
+* Geographic location information
 
 # Tools & Technologies
 + R Programming
